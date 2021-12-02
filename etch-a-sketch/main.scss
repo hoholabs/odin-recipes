@@ -1,0 +1,14 @@
+#grid-container{
+    display: grid;
+    //grid-template-columns: repeat(8,auto);
+    //grid-template-rows: auto auto auto auto;
+    grid-gap: 0px;
+    height:408px;
+    width:408px;
+    border:solid 1px black;
+}
+.pixel{
+    //border:solid 1px black;
+    //width: 25px;
+    //height: 25px;
+}

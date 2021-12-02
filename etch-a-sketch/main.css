@@ -1,0 +1,9 @@
+#grid-container {
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 0px;
+  height: 408px;
+  width: 408px;
+  border: solid 1px black;
+}
+/*# sourceMappingURL=main.css.map */
